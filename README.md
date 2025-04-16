@@ -1,5 +1,5 @@
 Ananya Ganesam (22011102018) IoT A \
-An implementation of the following 13 ciphers in Java
+An implementation of the following 13 ciphers in Java:
 1) Ceasers 
 2) Atbash
 3) August
